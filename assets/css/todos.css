@@ -23,7 +23,7 @@ ul {
 
 li {
     background: white;
-    height: 40px;
+    height: auto;
     line-height: 40px;
     color: #666;
 }
